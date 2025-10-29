@@ -3,7 +3,7 @@
 #多ip指定
 #meta核心
 proxy-providers-dingyue: &airports
-
+#元墨clash配置
   gfwairport5:
     type: http
     interval: 3600
